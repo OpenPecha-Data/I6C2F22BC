@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W21945
   title: བཞད་གད་ཀྱི་གཏམ།
-  volume: ''
+  volume:
+    2267e2a43f604f08ab87f714e4fca80f:
+      image_group_id: I1KG23328
+      title: Volume 1 of bzhad gad kyi gtam/
+      volume_number: 1
+      total_pages: 70
   author: ''
+ebook_metadata:
+  title: བཞད་གད་ཀྱི་གཏམ།
+  author: ''
+  sku: P000496
+  cover: cover.jpg
+  layers:
+  - pagination
